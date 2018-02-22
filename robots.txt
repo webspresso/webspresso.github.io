@@ -1,3 +1,5 @@
 User-agent: *
-Disallow: /blog-post-template.html
-Sitemap: https://webspresso.co.uk/sitemap.xml
+Disallow: /cgi-bin
+
+Sitemap:https://webspresso.co.uk/sitemap.xml
+
